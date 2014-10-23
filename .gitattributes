@@ -17,7 +17,10 @@
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
-*.PDF	 diff=astextplain
+*.PDF	 diff=astextplaini
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 test
+
+
+testing goes here
