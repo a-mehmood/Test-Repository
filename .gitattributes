@@ -20,7 +20,6 @@
 *.PDF	 diff=astextplaini
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-test
 
 
-testing goes here
+testing goes here hh

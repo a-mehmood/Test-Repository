@@ -1,0 +1,6 @@
+diff a/.gitattributes b/.gitattributes	(rejected hunks)
+@@ -20,3 +20,4 @@
+ *.PDF	 diff=astextplain
+ *.rtf	 diff=astextplain
+ *.RTF	 diff=astextplain
++test
